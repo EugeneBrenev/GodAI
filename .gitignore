@@ -1,0 +1,15 @@
+/.idea/
+/.vs/
+/.vscode/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Pp]roject[Ss]ettings/AndroidLogcatSettings.asset
+/[Ss]erver[Dd]ata/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.DS_Store
+*.sln
+*.user
